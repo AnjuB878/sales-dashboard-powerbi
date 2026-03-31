@@ -30,5 +30,8 @@ This project analyzes sales, profit, and customer trends using Power BI.
 * Dataset (.xlsx)
 
 ---
+## 📊 Dashboard Preview
+
+![Dashboard](Sales_dashboard.png)
 
 ⭐ Feel free to explore and give feedback!
