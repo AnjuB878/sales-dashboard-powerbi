@@ -34,4 +34,17 @@ This project analyzes sales, profit, and customer trends using Power BI.
 
 ![Dashboard](Sales_dashboard.png)
 
-⭐ Feel free to explore and give feedback!
+## 📂 Dataset
+
+The dataset used in this project is the **Sample Superstore dataset**, commonly available on Kaggle.
+
+Source: Kaggle 
+
+
+⭐ Feel free to explore and give
+
+
+
+
+
+feedback!
